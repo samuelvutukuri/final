@@ -15,10 +15,11 @@ export default async function handler(
         { 
             role: "system",
             content: `You are an english tutor and ${req.body.prompt}
+            Evaluate the student sentence. If the sentence is wrong, provide the correct version and give learning suggestions to the student.
             This is your student preferences:
             Language Level : ${response? response.languageLevel : "Beginner"}
-            Commitment : ${response ? response.objectives: "Everyday"}
-            Objectives : ${response? response.commitment: "Just for fun"}
+            Objectives : ${response ? response.objectives: "Everyday"}
+            Commitment : ${response? response.commitment: "Just for fun"}
             
             You should not send empty responses.
             ` 
