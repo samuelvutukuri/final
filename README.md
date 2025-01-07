@@ -32,3 +32,4 @@ Open [http://localhost:5000] and signup. Then click on select a model and search
 
 Open [http://localhost:3000] to see the result.
 
+NOTE: Check for feedback by clicking on feedback link under your message.
