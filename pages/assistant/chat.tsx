@@ -22,7 +22,7 @@ export default function Page() {
             profile: "/profile1.jpg",
             name: "Henry Boyd",
             description: "An English tutor seeking vengeance after her tribe's destruction, torn by the morality of her quest.",
-            // prompt: "You are a professor of English.",
+            prompt: "You are a professor of English.",
         },
         {
             profile: "/profile2.jpg",
@@ -253,6 +253,7 @@ export default function Page() {
                                     </button>
                                     </form>
                                 </div>
+                                <h1>Click on the feedback.</h1>
                             </div>
                         </div>
                     </div>
