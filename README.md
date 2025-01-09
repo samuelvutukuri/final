@@ -25,7 +25,7 @@ Ensure the following are installed:
 
 2. **Clone the Repository**:
    ```bash
-   git clone git@github.com:xxxx .
+   git clone https://github.com/samuelvutukuri/final.git .
    ```
 
 3. **Install Node.js Dependencies**:
