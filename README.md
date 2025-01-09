@@ -63,6 +63,8 @@ Ensure the following are installed:
 
 ---
 
+###Click on feedback in the chat window to get detailed feedback**
+
 ### **Results Example**
 Below are sample inputs and the corresponding corrected outputs:
 
